@@ -11,6 +11,8 @@ Urban Mobility Analytics – Fare trends by time, location, and trip type.
 Travel Budget Planners – Predict estimated trip fare for tourists.
 Taxi Sharing Apps – Dynamic pricing for shared rides.
 
+Dataset Link : https://drive.google.com/file/d/1VUb9ucTsroGDBOPcwpOfXwzDi-rd4wqQ/view?usp=sharing
+
 The data set contains columns like Pick up datetime, Drop off datetime,Pick latitude and longitude, Drop off latitude and longitude, Total fare, No.of Passengers and so on.
 The datetime is converted from UTC to EDT. The trip distance is obtained from latitude and longitude using haversine formula. The Trip duration, Day of week, Pick up time are derived from the existing columns.
 
